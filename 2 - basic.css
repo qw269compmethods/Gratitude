@@ -1,0 +1,25 @@
+body {
+    background: blueviolet;
+    text-align: center;
+    color: white;
+}
+
+.title {
+    font-size: 100px;
+}
+
+.heading{
+    font-size: 90px;
+    font-family: 'Arial Rounded MT Bold';
+    font-size: large;
+    color:aqua;
+}
+.items {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium';
+}
+
+#fries {
+    color: yellow;
+    font-family: Impact;
+}
